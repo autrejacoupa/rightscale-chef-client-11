@@ -148,5 +148,5 @@
     "chef::install_client": "Installs and configures the Chef Client",
     "chef::do_client_converge": "Allows manual update/re-run of runlist on the Chef Client"
   },
-  "version": "13.4.0"
+  "version": "13.4.1"
 }
