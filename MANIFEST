@@ -1,0 +1,11 @@
+README.md	a4ddc244a7c7b4b2937e6abbc724cb39
+attributes/default.rb	6fb64eed0c3855a8ef30ade8f0726ec4
+files/default/install.sh	ccce1a10c448a625cc1578906a0de732
+metadata.json	e0a290bd6483dd5da95799b61efd9755
+metadata.rb	5b197bfbec5baa0c491100744bcc94ad
+recipes/default.rb	c7febaa4f4f877809ddc52f6012d9913
+recipes/do_client_converge.rb	7e75856974b4e447fb26e4fa7a092c0b
+recipes/install_client.rb	b72e8055c9c56c9913a0df1b6d34ee38
+templates/default/client.rb.erb	3f061f722002e2cfa7586de9acc4bef8
+templates/default/runlist.json.erb	f4dda5608fbe0ab4da34629d44b62721
+templates/default/validation_key.erb	4e836bb5028fc15dc6c3a0287a8c27de
